@@ -1,5 +1,8 @@
 # Hello, I'm Odaine! 👋
+
+## Profile
 <https://odforbes.vercel.app/>
+
 I'm a passionate full-stack software developer with expertise in building innovative web applications and data driven applications. Welcome to my GitHub profile, where you can explore my projects and contributions.
 
 ## 🔭 Currently Working On
