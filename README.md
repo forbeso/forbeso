@@ -35,7 +35,6 @@ I'm open to collaborating on exciting projects. If you have any ideas or want to
 You can reach out to me via:
 
 - LinkedIn: https://www.linkedin.com/in/odaine-forbes-a5454317a/
-- Email: odainef@gmail.com
 
 
 Thank you for visiting my GitHub profile. Let's connect and collaborate on exciting projects! 😄
